@@ -1,0 +1,8 @@
+import os
+import cv2
+path="C:\Users\Sidhant\OneDrive\Desktop\Project105"
+Images = [ ]
+os.listdir()
+os.splitext()
+if ext in ['.gif', '.png', '.jpg' , '.jpeg', '.jpeg' ,'.jfif']:
+    file_name= "C:\Users\Sidhant\OneDrive\Desktop\Project105\111.jpg"+/filw
